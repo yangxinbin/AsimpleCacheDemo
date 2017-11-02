@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/layout/activity_save_drawable.xml",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/layout/activity_save_drawable.xml"
+    },
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/layout/activity_save_object.xml",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/layout/activity_save_object.xml"
+    },
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/layout/activity_save_bitmap.xml",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/layout/activity_save_bitmap.xml"
+    },
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/layout/activity_save_file.xml",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/layout/activity_save_file.xml"
+    },
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/layout/activity_save_string.xml",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/layout/activity_save_string.xml"
+    },
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/layout/activity_save_jsonarray.xml",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/layout/activity_save_jsonarray.xml"
+    },
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/layout/activity_save_jsonobject.xml",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/layout/activity_save_jsonobject.xml"
+    }
+]

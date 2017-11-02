@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/drawable/img_test.png",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/drawable/img_test.png"
+    },
+    {
+        "merged": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/yangxb/AndroidStudioProjects/AsimpleCacheDemo/app/src/main/res/drawable/ic_launcher.png"
+    }
+]
